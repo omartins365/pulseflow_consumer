@@ -7,7 +7,7 @@ This is an unofficial SDK for the PulseFlow v1 API. It provides a convenient wra
 To install the SDK, use Composer:
 
 ```sh
-composer require genioforge/pulseflow_consumer
+composer require genioforge/pulseflow_consumer dev-main
 ```
 
 ## Configuration
